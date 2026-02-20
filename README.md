@@ -69,13 +69,6 @@ A customer requests a car model “Tesla Model 3” from the Service Catalog.
 
 ---
 
-## 👩‍💼 Author
-**Uthayan U**  
-🎓 *B.E. – Electronics and Communication Engineering*  
-💼 *Automated Car Catalog System for Enhanced Showroom Management*  
-📍 *Karur, Tamil Nadu*  
-
----
 
 ## 🏁 Conclusion
 This project demonstrates the power of **ServiceNow automation** in simplifying real-world business operations.  
